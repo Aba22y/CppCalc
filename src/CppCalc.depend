@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1763787168 source:c:\users\ahmed\onedrive\desktop\cppcalc\src\main.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+
